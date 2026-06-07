@@ -1,2 +1,3 @@
-# vetren001
-jj
+# Welcome to your Lovable project
+
+TODO: Document your project here
